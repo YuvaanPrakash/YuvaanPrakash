@@ -13,9 +13,8 @@ You can find me outside on two wheels! Cycling is my absolute favorite way to st
 ---
 
 ### 🛠️ Tech Stack & Tools
-*(Tip: Replace these with the languages you use!)*
 - **Languages:** HTML, CSS, JavaScript, Python
-- **Tools:** VS Code, Git, GitHub
+- **Tools:** VS Code
 
 ---
 
